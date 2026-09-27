@@ -2,6 +2,8 @@
 
 Streamlit V1，用于上传开奖数据、查看统计并调整策略参数。
 
+线上应用：https://mark6-stats-xiaofeixia.streamlit.app
+
 ## 数据格式
 
 支持 CSV、XLSX 和 XLSM。六个正码必须拆成六列。列名可使用以下任一形式：
